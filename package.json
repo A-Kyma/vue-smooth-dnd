@@ -1,6 +1,6 @@
 {
   "name": "@akyma/vue-smooth-dnd",
-  "version": "0.8.6",
+  "version": "0.8.7",
   "description": "Vue wrappers for smooth-dnd",
   "author": "Kutlu Sahin",
   "homepage": "https://kutlugsahin.github.io/vue-smooth-dnd/",
@@ -45,7 +45,7 @@
     "url": "https://github.com/A-Kyma/vue-smooth-dnd/issues"
   },
   "dependencies": {
-    "@akyma/smooth-dnd": "0.12.4"
+    "@akyma/smooth-dnd": "0.12.5"
   },
   "devDependencies": {
     "babel-jest": "^23.4.0",
